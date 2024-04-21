@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710113076 source:d:\kism\алро\new prog\newproject\main.c
+	<stdlib.h>
+	<wchar.h>
+

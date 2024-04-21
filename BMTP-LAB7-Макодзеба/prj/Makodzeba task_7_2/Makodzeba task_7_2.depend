@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708900119 source:d:\kism\БМТП\bmtp-lab7-Макодзеба\prj\makodzeba task_7_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
